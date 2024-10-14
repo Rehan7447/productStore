@@ -9,7 +9,7 @@
         This is a short description of the product. It highlights key features
         and benefits.
       </p>
-      <div class="product-price-test">$29.99</div>
+      <div class="product-price-test">$0</div>
       <button class="product-button-test">Add to Cart</button>
     </div>
   </div>
